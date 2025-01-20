@@ -1,0 +1,30 @@
+C:\Users\2rain\Desktop\BR\BR\bin\Debug\BR.exe.config
+C:\Users\2rain\Desktop\BR\BR\bin\Debug\BR.exe
+C:\Users\2rain\Desktop\BR\BR\bin\Debug\BR.pdb
+C:\Users\2rain\Desktop\BR\BR\obj\Debug\BR.csproj.AssemblyReference.cache
+C:\Users\2rain\Desktop\BR\BR\obj\Debug\BR.BR.resources
+C:\Users\2rain\Desktop\BR\BR\obj\Debug\BR.Properties.Resources.resources
+C:\Users\2rain\Desktop\BR\BR\obj\Debug\BR.csproj.GenerateResource.cache
+C:\Users\2rain\Desktop\BR\BR\obj\Debug\BR.csproj.CoreCompileInputs.cache
+C:\Users\2rain\Desktop\BR\BR\obj\Debug\BR.exe
+C:\Users\2rain\Desktop\BR\BR\obj\Debug\BR.pdb
+C:\Users\Foxy\Desktop\BR\BR\bin\Debug\BR.exe.config
+C:\Users\Foxy\Desktop\BR\BR\bin\Debug\BR.exe
+C:\Users\Foxy\Desktop\BR\BR\bin\Debug\BR.pdb
+C:\Users\Foxy\Desktop\BR\BR\obj\Debug\BR.csproj.AssemblyReference.cache
+C:\Users\Foxy\Desktop\BR\BR\obj\Debug\BR.BR.resources
+C:\Users\Foxy\Desktop\BR\BR\obj\Debug\BR.Properties.Resources.resources
+C:\Users\Foxy\Desktop\BR\BR\obj\Debug\BR.csproj.GenerateResource.cache
+C:\Users\Foxy\Desktop\BR\BR\obj\Debug\BR.csproj.CoreCompileInputs.cache
+C:\Users\Foxy\Desktop\BR\BR\obj\Debug\BR.exe
+C:\Users\Foxy\Desktop\BR\BR\obj\Debug\BR.pdb
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\bin\Debug\BR.exe.config
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\bin\Debug\BR.exe
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\bin\Debug\BR.pdb
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Debug\BR.csproj.AssemblyReference.cache
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Debug\BR.BR.resources
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Debug\BR.Properties.Resources.resources
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Debug\BR.csproj.GenerateResource.cache
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Debug\BR.csproj.CoreCompileInputs.cache
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Debug\BR.exe
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Debug\BR.pdb

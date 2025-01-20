@@ -1,0 +1,50 @@
+C:\Users\2rain\Desktop\BR\BR\bin\Release\BR.exe.config
+C:\Users\2rain\Desktop\BR\BR\bin\Release\BR.exe
+C:\Users\2rain\Desktop\BR\BR\bin\Release\BR.pdb
+C:\Users\2rain\Desktop\BR\BR\obj\Release\BR.csproj.AssemblyReference.cache
+C:\Users\2rain\Desktop\BR\BR\obj\Release\BR.BR.resources
+C:\Users\2rain\Desktop\BR\BR\obj\Release\BR.Properties.Resources.resources
+C:\Users\2rain\Desktop\BR\BR\obj\Release\BR.csproj.GenerateResource.cache
+C:\Users\2rain\Desktop\BR\BR\obj\Release\BR.csproj.CoreCompileInputs.cache
+C:\Users\2rain\Desktop\BR\BR\obj\Release\BR.exe
+C:\Users\2rain\Desktop\BR\BR\obj\Release\BR.pdb
+C:\Users\Foxy\Desktop\BR\BR\bin\Release\BR.exe.config
+C:\Users\Foxy\Desktop\BR\BR\bin\Release\BR.exe
+C:\Users\Foxy\Desktop\BR\BR\bin\Release\BR.pdb
+C:\Users\Foxy\Desktop\BR\BR\obj\Release\BR.csproj.AssemblyReference.cache
+C:\Users\Foxy\Desktop\BR\BR\obj\Release\BR.BR.resources
+C:\Users\Foxy\Desktop\BR\BR\obj\Release\BR.Properties.Resources.resources
+C:\Users\Foxy\Desktop\BR\BR\obj\Release\BR.csproj.GenerateResource.cache
+C:\Users\Foxy\Desktop\BR\BR\obj\Release\BR.csproj.CoreCompileInputs.cache
+C:\Users\Foxy\Desktop\BR\BR\obj\Release\BR.exe
+C:\Users\Foxy\Desktop\BR\BR\obj\Release\BR.pdb
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\bin\Release\BR.exe.config
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\bin\Release\BR.exe
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\bin\Release\BR.pdb
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Release\BR.csproj.AssemblyReference.cache
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Release\BR.BR.resources
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Release\BR.Properties.Resources.resources
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Release\BR.csproj.GenerateResource.cache
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Release\BR.csproj.CoreCompileInputs.cache
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Release\BR.exe
+C:\Users\2rain\OneDrive\Рабочий стол\Калькулятор BR\BR\BR\obj\Release\BR.pdb
+C:\Users\2rain\OneDrive\Рабочий стол\BR\BR\bin\Release\BR.exe.config
+C:\Users\2rain\OneDrive\Рабочий стол\BR\BR\bin\Release\BR.exe
+C:\Users\2rain\OneDrive\Рабочий стол\BR\BR\bin\Release\BR.pdb
+C:\Users\2rain\OneDrive\Рабочий стол\BR\BR\obj\Release\BR.csproj.AssemblyReference.cache
+C:\Users\2rain\OneDrive\Рабочий стол\BR\BR\obj\Release\BR.BR.resources
+C:\Users\2rain\OneDrive\Рабочий стол\BR\BR\obj\Release\BR.Properties.Resources.resources
+C:\Users\2rain\OneDrive\Рабочий стол\BR\BR\obj\Release\BR.csproj.GenerateResource.cache
+C:\Users\2rain\OneDrive\Рабочий стол\BR\BR\obj\Release\BR.csproj.CoreCompileInputs.cache
+C:\Users\2rain\OneDrive\Рабочий стол\BR\BR\obj\Release\BR.exe
+C:\Users\2rain\OneDrive\Рабочий стол\BR\BR\obj\Release\BR.pdb
+C:\Users\2rain\OneDrive\Рабочий стол\Buckshot Ammo Tracker\BR\bin\Release\BR.exe.config
+C:\Users\2rain\OneDrive\Рабочий стол\Buckshot Ammo Tracker\BR\bin\Release\BR.exe
+C:\Users\2rain\OneDrive\Рабочий стол\Buckshot Ammo Tracker\BR\bin\Release\BR.pdb
+C:\Users\2rain\OneDrive\Рабочий стол\Buckshot Ammo Tracker\BR\obj\Release\BR.csproj.AssemblyReference.cache
+C:\Users\2rain\OneDrive\Рабочий стол\Buckshot Ammo Tracker\BR\obj\Release\BR.BR.resources
+C:\Users\2rain\OneDrive\Рабочий стол\Buckshot Ammo Tracker\BR\obj\Release\BR.Properties.Resources.resources
+C:\Users\2rain\OneDrive\Рабочий стол\Buckshot Ammo Tracker\BR\obj\Release\BR.csproj.GenerateResource.cache
+C:\Users\2rain\OneDrive\Рабочий стол\Buckshot Ammo Tracker\BR\obj\Release\BR.csproj.CoreCompileInputs.cache
+C:\Users\2rain\OneDrive\Рабочий стол\Buckshot Ammo Tracker\BR\obj\Release\BR.exe
+C:\Users\2rain\OneDrive\Рабочий стол\Buckshot Ammo Tracker\BR\obj\Release\BR.pdb
